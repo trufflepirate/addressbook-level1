@@ -183,9 +183,10 @@
 || 
 || 0 persons found!
 || ===================================================
-|| Enter command: || [Command entered:  find betsy]
+|| Enter command: || [Command entered:  find bEtSy]
+|| 	1. Betsy Choo  Phone Number: 222222  Email: benchoo@nus.edu.sg
 || 
-|| 0 persons found!
+|| 1 persons found!
 || ===================================================
 || Enter command: || [Command entered:  find Betsy]
 || 	1. Betsy Choo  Phone Number: 222222  Email: benchoo@nus.edu.sg
